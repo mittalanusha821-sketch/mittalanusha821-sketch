@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A5ACD&height=180&section=header&animation=fadeIn" width="50">
 
 # Hi there, I'm Anusha Mittal 
 
